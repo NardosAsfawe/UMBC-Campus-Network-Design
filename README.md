@@ -7,6 +7,10 @@ As for the distribution layer, we decided to use routers because they can filter
 Lastly, from the distribution layer, it will connect to the core layer of the campus, which is located in the data center. 
 </P1>
 
+<h1> Logical Diagram </h1>
+
+![](https://github.com/NardosMe/UMBC-Campus-Network-Design/blob/master/D2.jpg)
+
 <h1> Ground Floor </h1>
 <p1>mainly contains mechanical areas, elevator spaces, and access to the utility tunnel that connects it with the rest of the campus. There are a total of 12 ports on this floor. 
 Since this floor does not contain multiple rooms, it will be sufficient to use 2 Ubiquiti Unifi UAP-AC-PRO access points. And a Catalyst 3650-24TS (24 ports) switch will be used to connect all the ports. Additionally, for the access layer, one switch will be used to connect with the distribution layer.
