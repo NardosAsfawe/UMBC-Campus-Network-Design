@@ -1,5 +1,6 @@
 # UMBC-Campus-Network-Design
 
+<h3>Nardos Asfawe</h3>
 
 <P1>The admin building has ten floors which consists of a lecture room, conference rooms, staff and faculty offices. The topology that would serve best the admin building is a star topology in which it makes it easier to manage and control the network as well as to achieve scalability. While designing the hierarchical network structure for this building, our team decided to approach the three layers keeping in mind how the building comprises several offices. 
 For the access layer, using switches would be the optimum choice to connect several access points on each floor. 
